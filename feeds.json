@@ -1,14 +1,17 @@
 {
 	"feed1": {
 		"imageLocation": "ghCLI",
-		"pkgName": "gh"
+		"pkgName": "gh",
+        "tap": "0"
 	},
 	"feed2": {
 		"imageLocation": "fm",
-		"pkgName": "fm"
+		"pkgName": "fm",
+        "tap": "zachattack323/homebrew-tap"
 	},
 	"feed3": {
 		"imageLocation": "SkateByCharm",
-		"pkgName": "gh"
+		"pkgName": "skate",
+        "tap": "charmbracelet/tap"
 	}
 }
