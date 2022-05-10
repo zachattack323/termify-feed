@@ -1,0 +1,14 @@
+{
+	"feed1": {
+		"imageLocation": "ghCLI",
+		"pkgName": "gh"
+	},
+	"feed2": {
+		"imageLocation": "fm",
+		"pkgName": "fm"
+	},
+	"feed3": {
+		"imageLocation": "SkateByCharm",
+		"pkgName": "gh"
+	}
+}
