@@ -1,17 +1,19 @@
 {
-	"feed1": {
+    "featuredCards": [
+	{
 		"imageLocation": "ghCLI",
 		"pkgName": "gh",
         "tap": "0"
 	},
-	"feed2": {
+	{
 		"imageLocation": "fm",
 		"pkgName": "fm",
         "tap": "zachattack323/homebrew-tap"
 	},
-	"feed3": {
+	{
 		"imageLocation": "SkateByCharm",
 		"pkgName": "skate",
         "tap": "charmbracelet/tap"
 	}
+    ]
 }
