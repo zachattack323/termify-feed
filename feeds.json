@@ -11,7 +11,7 @@
         "tap": "zachattack323/homebrew-tap"
 	},
 	{
-		"imageLocation": "SkateByCharm",
+		"imageLocation": "SkatebyCharm",
 		"pkgName": "skate",
         "tap": "charmbracelet/tap"
 	}
